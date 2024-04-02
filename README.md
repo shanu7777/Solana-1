@@ -1,8 +1,6 @@
-# Transfer-SOL-to-New-Wallet
+# Solana -1
 
 This project is a simple web application that facilitates interaction with a Solana wallet (e.g., Phantom Wallet) to send SOL tokens to a specified account address. The Solana Web3.js library is utilized for blockchain interactions.
-
-![Solana Logo](https://cryptologos.cc/logos/solana-sol-logo.png?v=024)
 
 ## Project Overview
 
@@ -45,9 +43,6 @@ The project includes a function that shortens long Solana addresses for display.
 
 - Check the browser's console for error messages if you encounter any issues with the connection or transaction.
 
-## Dependencies
-
-- [Solana Web3.js](https://github.com/solana-labs/solana-web3.js): Used for interacting with the Solana blockchain.
 
 ## Notes
 
@@ -86,3 +81,4 @@ Ensure Solana is installed before running these commands.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Feel free to customize this README.md file with additional information or instructions specific to your project.
+- - -
